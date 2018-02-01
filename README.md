@@ -4,23 +4,24 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|高橋　俊大郎|
+|Twitter|[@byakheee](https://twitter.com/byakheee)|
+|Qiita|[byakheee](http://qiita.com/byakheee)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
-
+    - Javascript
+        - Node.js
+    - C#
+    - Golang
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - ビジネス会話、指示書などの内部文書作成
+  - 前職で4年間、フィリピンの生産ライン立ち上げ、工程管理、作業改善の経験あり
 
 ### フレームワーク
 
