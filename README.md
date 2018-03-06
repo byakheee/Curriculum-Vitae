@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|高橋　俊大郎|
+|Name|高橋 俊大郎|
 |Twitter|[@byakheee](https://twitter.com/byakheee)|
 |Qiita|[byakheee](http://qiita.com/byakheee)|
 
@@ -26,44 +26,68 @@
 ### フレームワーク
 
 - Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+  - [noble](https://github.com/noble/noble)
+    - IoT認証基盤でBLEプロトルスタックのNode.js実装.
+    - Linux標準のプロトコルスタックと競合したため, ユーザチャンネルの実装を追加/PR.
+  - [Prism](https://github.com/PrismLibrary/Prism)
+    - Win 10 M アプリ開発にてMVVMパターンで実装する際に利用.
+  - [node-restify](https://github.com/restify/node-restify)
+    - メッシュサーバのHTTP-APIの実装に利用.
 
 ### その他
-
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+なし
 
 ## 強み
+* クラウドのアーキテクチャ設計, セキュリティ設計が得意.
+* 新しい物好き, 未知の技術に挑戦するのが好き.
+* 標準化, 自動化が好き. 資料をまとめてチームに展開するノウハウあり.
+* ボードゲームをインストラクタして, チームビルディングに活かせる.
 
 ## やったことはないが興味があるもの
+Blockchain / A.I. / 特に動画内の人物のリアルタイム判別
 
 ## 登壇歴
+なし
 
 ## 受賞歴
+なし
 
 ## 執筆歴
-
-### 商業
-
-### 同人
+なし
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2015/09 - : 株式会社アイ・エス・ビー
 
-職務: Webアプリケーションエンジニア（例）
+職務: エンジニア (サーバサイド/クラウド/インフラ)
 
-#### 職務内容の名前（レストラン検索とか）
+#### ホテル向け鍵管理プラットフォーム開発 2017/05 - 2017/12 
 
-- 職務内容の詳細を箇条書きでかく
+- C# / .NET Core 1.0 / AWS / WPF / PCSC / Jenkins
+- サーバレスな鍵管理プラットフォーム
+- 署名付き鍵トークンを設計/実装
+- .NET向けにASN.1形式のRSA証明書のパーサを実装
+- 2018/12以降はDevOpsとして運用/保守も担当, 2018/03現在まで障害0件
 
-#### 職務内容の名前（レストラン検索とか）
+#### IoT向け統合認証プラットフォーム開発 2016/10 - 2017/03 
 
-- 職務内容の詳細を箇条書きでかく
+- Golang / Node.js / Ubuntu / Restify / Node-RED / Apache Storm / Mosquitto / Rabbit-MQ / Zookeeper
+- GolangによるMQTTクライアントの実装
+- Node.jsによるIoT機のACLサーバ実装(クライアント認証)
+- メッシュネットワークの集計サーバ実装(NeighborTable集計)
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### Win 10 M向け アドレス帳移行アプリ 2016/08 - 2016/09 
 
-職務: サーバーサイドエンジニア
+- C# / UWP
+- iOS/Android から Win 10 M へ Bluetooth でアドレス帳を移行
+- OBEXのAPIを利用してPBAPのプロトコルスタックを実装
 
-#### 職務内容の名前（レストラン検索とか）
+#### IoT認証基盤のプロトタイプ実証実験 2015/10 - 2016/03 
 
-- 職務内容の詳細を箇条書きでかく
+- Node.js / Ubuntu / Microsoft Azure (VM)
+- SoftwareSecureElementを組み込んだIoT機
+- IoT機がゲートウェイ経由でクラウドとSSL/TLS通信
+- チャレンジレスポンス認証
+- IoT機とゲートウェイ間はBLE通信
+- BLEのプロトコルスタック(noble)のコントリビュート
+
