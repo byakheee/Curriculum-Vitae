@@ -28,7 +28,7 @@
 - Framework名
   - [noble](https://github.com/noble/noble)
     - IoT認証基盤でBLEプロトルスタックのNode.js実装.
-    - Linux標準のプロトコルスタックと競合したため, ユーザチャンネルの実装を追加/PR.
+    - Linux標準のプロトコルスタックと競合したため, ユーザチャンネルの実装を追加.
   - [Prism](https://github.com/PrismLibrary/Prism)
     - Win 10 M アプリ開発にてMVVMパターンで実装する際に利用.
   - [node-restify](https://github.com/restify/node-restify)
